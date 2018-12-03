@@ -1,0 +1,17 @@
+2018/12/03 11:51:18 [emerg] 16552#968: CreateDirectory() "D:\GitHub\nginx-1.12\debug/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2018/12/03 12:14:09 [error] 10000#12804: *2 "D:\GitHub\nginx-1.12\debug/html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2018/12/03 12:14:09 [error] 10000#12804: *2 CreateFile() "D:\GitHub\nginx-1.12\debug/html/favicon.ico" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2018/12/03 14:22:53 [emerg] 18108#18104: unknown directive "rtmp" in D:\GitHub\nginx-1.12\debug/conf/nginx.conf:17
+2018/12/03 14:23:44 [emerg] 4676#15028: unknown directive "rtmp" in D:\GitHub\nginx-1.12\debug/conf/nginx.conf:17
+2018/12/03 14:23:51 [emerg] 17132#5584: unknown directive "rtmp" in D:\GitHub\nginx-1.12\debug/conf/nginx.conf:17
+2018/12/03 14:35:41 [error] 6852#10140: *1 directory index of "D:\GitHub\nginx-1.12\debug/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2018/12/03 14:35:45 [error] 6852#10140: *1 directory index of "D:\GitHub\nginx-1.12\debug/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2018/12/03 15:04:50 [error] 6852#10140: *2 directory index of "D:\GitHub\nginx-1.12\debug/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2018/12/03 15:05:43 [error] 6852#10140: *3 directory index of "D:\GitHub\nginx-1.12\debug/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2018/12/03 15:05:44 [error] 6852#10140: *3 directory index of "D:\GitHub\nginx-1.12\debug/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2018/12/03 15:05:44 [error] 6852#10140: *3 directory index of "D:\GitHub\nginx-1.12\debug/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2018/12/03 15:05:44 [error] 6852#10140: *3 directory index of "D:\GitHub\nginx-1.12\debug/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2018/12/03 15:05:44 [error] 6852#10140: *3 directory index of "D:\GitHub\nginx-1.12\debug/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2018/12/03 15:05:44 [error] 6852#10140: *3 directory index of "D:\GitHub\nginx-1.12\debug/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2018/12/03 15:05:44 [error] 6852#10140: *3 directory index of "D:\GitHub\nginx-1.12\debug/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2018/12/03 15:05:45 [error] 6852#10140: *3 directory index of "D:\GitHub\nginx-1.12\debug/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
