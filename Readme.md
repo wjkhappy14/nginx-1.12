@@ -1,4 +1,5 @@
 ## 特别说明
+nginx官方源码 http://hg.nginx.org/nginx
 本项目在Win10下使用VS2017编译, nginx版本为1.12;  
 本项目既可以使用VS2017直接打开进行项目编译，也可以使用VS的nmake -f build/Makefile通过命令行进行编译，无需安装其他编译环境。
 
