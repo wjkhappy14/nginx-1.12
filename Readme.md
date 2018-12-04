@@ -5,7 +5,7 @@ nginx官方源码 http://hg.nginx.org/nginx
 
 ### 目录说明
 * include：该目录下存放的是openssl库的头文件，对应的静态库存放于libs目录下；
-* publish：该目录下存放的是nginx运行的基本目录结构以及简单的配置文件；
+* debug：该目录下存放的是编译的nginx输出exe，运行的基本目录结构以及简单的配置文件；
 * src：该目录下存放为nginx的实现代码；
 * build：该目录下存放的是生成的Makefile文件以及公用头文件，该目录下各个子目录如果不使用nmake进行编译的话可以删除，使用nmake编译必须保留，否则会提示找不到目录的错误；
 
